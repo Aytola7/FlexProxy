@@ -70,6 +70,17 @@ sudo ./flexproxy.sh
 /etc/systemd/system/gost_DOMAIN.service
 /var/www/DOMAIN/index.html
 ```
+---
+
+# 1. دریافت پروژه از GitHub
+git clone https://github.com/Aytola7/FlexProxy.git
+
+# 2. وارد پوشه پروژه شو
+cd FlexProxy
+
+# 3. اجرای اسکریپت اصلی
+chmod +x flexproxy.sh
+./flexproxy.sh
 
 ---
 
