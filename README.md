@@ -73,14 +73,22 @@ sudo ./flexproxy.sh
 ---
 
 # 1. دریافت پروژه از GitHub
+```
 git clone https://github.com/Aytola7/FlexProxy.git
+```
 
 # 2. وارد پوشه پروژه شو
+```
 cd FlexProxy
+```
 
 # 3. اجرای اسکریپت اصلی
-chmod +x flexproxy.sh
-./flexproxy.sh
+```
+chmod +x setup_proxy.sh
+```
+```
+./setup_proxy.sh
+```
 
 ---
 
